@@ -1,2 +1,3 @@
 # pcap_test
-syntax : pcap_test &lt;interface>     // example : pcap_test wlan0
+syntax : pcap_test &lt;interface>    
+// example : pcap_test wlan0
